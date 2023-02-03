@@ -1,0 +1,2 @@
+insert into course(id,name,author)
+values(2,'Python','Durga');
